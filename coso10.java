@@ -9,6 +9,7 @@ public class coso10 {
          doiCoso(n/base,base);
      if(n % base > 9)
      {
+         //System.out,print("fghgf");
          System.out.printf("%c " + n % base + 55);
      }
      else
